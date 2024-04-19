@@ -1,5 +1,8 @@
 ChangeLog [recode v14.88 [Pashalko] ]
 
+[+] RPC Peter
+[+] RPC Racoon
+[+] RPC Waifu02
 [+] Added koctta1 in "Team"
 [+] Added Noesy in "Team"
 [+] Added awh__ in "Team"
