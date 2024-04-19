@@ -1,4 +1,12 @@
 ChangeLog [recode v14.88 [Pashalko] ]
 
+[+] Added koctta1 in "Team"
+[+] Added Noesy in "Team"
+[+] Added awh__ in "Team"
+[+] Added Mainofyoru in "Team"
+[+] Added in "Team"
+[+] More Sounds
+[+] Paimon
+[+] Changing RPC
 [+] Renaming -> Apis (by @mainofyoru)
 [/] Renaming Hack
