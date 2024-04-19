@@ -1,5 +1,7 @@
 ChangeLog [recode v14.88 [Pashalko] ]
 
+[/] RPC Racoon
+[/] RPC Peter
 [+] RPC Peter
 [+] RPC Racoon
 [+] RPC Waifu02
